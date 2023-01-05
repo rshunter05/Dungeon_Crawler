@@ -14,7 +14,7 @@ For CompSci, this would do the following:
 
 ## The Story
 
-Fred has been locked up for years when he finds the door's been left unlocked.  You must find your way out while collecting as much loot as possible.  Beware of the sleeping dragon and make sure you've got something to defeat the ogre at the main gate.
+Fred has been locked up for years when he finds the door's been left unlocked.  You must find your way out while collecting as much loot as possible.  Beware of the sleeping dragon and make sure you've got something to slay the ogre at the main gate.
 
 **Good Luck!!**
 
