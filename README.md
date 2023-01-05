@@ -9,6 +9,8 @@ For CompSci, this would do the following:
 - Reinforce their understanding of Objects
 - Reinforce their ability to create complex logic
 
+Not all the text is comleted, but it's placed so students can use the frames as needed.  But what is there gets a little snarky at times.
+
 **[Source Code](https://github.com/rshunter05/Dungeon_Crawler/tree/master/src/crawler)**
 
 
