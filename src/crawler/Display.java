@@ -308,9 +308,9 @@ public class Display {
 	
 	/*
 	 * This builds all the room objects necessary
-	 * and puts them in an array or Room objects
+	 * and puts them in an array of Room objects
 	 * 
-	 * It's essentially identical to creatRooms() above
+	 * It's essentially identical to buildRooms() above
 	 */
 	private Item[] buildItems() {
 		/*
@@ -392,8 +392,8 @@ public class Display {
 			}
 		}
 		
-		//set the character's buttons visible if we're in their room
-		characterButton.setVisible(false);  //make the button invisible
+		//set the character's buttons viibility for the room
+		characterButton.setVisible(false);  //make the button invisible to start
 		
 		int characterIndex = -1;
 		//if we're in room 6, 10 or 13, get the correct index
