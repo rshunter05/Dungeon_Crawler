@@ -21,9 +21,10 @@ Fred has been locked up for years when he finds the door's been left unlocked.  
 
 ## Screenshots
 **Opening Scene**
-
+![Main Screen](https://github.com/rshunter05/Dungeon_Crawler/blob/master/index/Screen%20Shot%202023-01-05%20at%201.43.56%20PM.png)
 
 **Loot Room**
-
+![Loot Room](https://github.com/rshunter05/Dungeon_Crawler/blob/master/index/Screen%20Shot%202023-01-05%20at%201.44.27%20PM.png)
 
 **Sleeping Dragon**
+![Sleeping Dragon Room](https://github.com/rshunter05/Dungeon_Crawler/blob/master/index/Screen%20Shot%202023-01-05%20at%201.44.56%20PM.png)
