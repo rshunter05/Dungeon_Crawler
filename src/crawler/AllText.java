@@ -16,70 +16,119 @@ public class AllText {
 	
 	public static String getText(int roomNumber, int phraseNumber) {
 		
+//		"<html><p style=" + display.ROOM_TEXT_COLOR + ">" + 
+//				"You just rammed that guy with your shield.<br /><br />" + 
+//				"But he smashed it with his club!<br /><br />" + 
+//				"You might want to run while you still can..." + 
+//				"</p></html>");
+		
 		String[][] allText = {
 			//room #0's text
-			{"Text for room # " + roomNumber,
-				"Text For spot #2 if needed later"
+			{"It's been 17 years since fisrt waking in this dank hell.<br /><br />" +
+					"For some reason, the door's not quite shut...<br /><br />" +
+					"This is your chance!  GO!!",
+			 "How did you end up back here?<br /><br />" +
+					"I thought you wanted to get out?",
+			 "Seriously... you've already named all the rooms in your cell...<br /><br />" +
+					"Why are you back here?!?"
 			},
 			//room #1's text
-			{"Text for room # " + roomNumber,
-				"Text For spot #2 if needed later"
+			{"Still quiet...<br /><br />" +
+					"Has the place been deserted?",
+			 "I think that chain looks familiar.<br /><br />" +
+					"Are you going in circles?",
+			 "I think that chain looks familiar.<br /><br />" +
+					"Are you going in circles?"
 			},
 			//room #2's text
-			{"Text for room # " + roomNumber,
-				"Text For spot #2 if needed later"
+			{"It's abnormally still.<br /><br />" +
+					"Where is everybody?",
+			 "It's abnormally still.<br /><br />" +
+					 "Where is everybody?",
+			 "It's abnormally still.<br /><br />" +
+					 "Where is everybody?"
 			},
 			//room #3's text
-			{"Text for room # " + roomNumber,
-				"Text For spot #2 if needed later"
+			{"Wait!!!<br /><br />" +
+					"Theres a deep rythmic rumbling coming from the right.<br /><br />" +
+					"I quess you're not alone. <br /><br />" + 
+					"Do you try the door?",
+			 "That rumbling is still unnerving",
+			 "Wait...<br /><br />" +
+					"Have we seen that brick before?" 
 			},
 			//room #4's text
-			{"Text for room # " + roomNumber,
-				"Text For spot #2 if needed later"
+			{"A dead end.<br /><br />" + 
+					"But not a wasted trip.",
+			 "Still a dead end.",
+			 "Still a dead end." + 
+					 "I think this is where you found the shield."
 			},
 			//room #5's text
-			{"Text for room # " + roomNumber,
-				"Text For spot #2 if needed later"
+			{"What's that in the corner?<br /><br />" +
+					"Maybe you can use this to pilfer as much as possible?<br /><br />" + 
+					"Serves them right!",
+			 "Wasn't the bag in this room?",
+			 "Another dead end.<br /><br />" +
+					 "This place really is a maze."
 			},
 			//room #6's text
-			{"Text for room # " + roomNumber,
-				"Text For spot #2 if needed later"
+			{"Well this explains the smell.<br /><br />" +
+					"You think it'll notice if you try and pass?",
+			 "Oh yeah... That guy...<br /><br />" + 
+					"Still smelly." +
+			 "Oh yeah... That guy...<br /><br />" + 
+					"Is it possible the stench got worse?"
 			},
 			//room #7's text
-			{"Text for room # " + roomNumber,
-				"Text For spot #2 if needed later"
+			{"Still to quiet...<br /><br />" +
+					"Mabye you should head back.",
+			 "I can barely see in here.<br /><br />" +
+					"How can you tell where we are?",
+			 "I think there was a boot in that corner."
 			},
 			//room #8's text
-			{"Text for room # " + roomNumber,
-				"Text For spot #2 if needed later"
+			{"It's too quiet in here.",
+			 "Drip...<br />Drip...<br />Drip...<br /><br />" +
+					 "Can we leave before that drip gets to me?",
+			 "Drip...<br />Drip...<br />Drip...<br /><br />" +
+					 "Well that sounds familiar."
 			},
 			//room #9's text
-			{"Text for room # " + roomNumber,
-				"Text For spot #2 if needed later"
+			{"Huh...<br /><br />" +
+					"Is there something snoring below you?",
+			 "Text For spot #2 if needed later"
 			},
 			//room #10's text
-			{"Text for room # " + roomNumber,
-				"Text For spot #2 if needed later"
+			{"WOAH!!<br /><br />" +
+					"Well that explains the noise!" +
+					"Do you dare kill the warden's prized pet?<br />Or just tip-toe around it...",
+			 "Text For spot #2 if needed later"
 			},
 			//room #11's text
-			{"Text for room # " + roomNumber,
-				"Text For spot #2 if needed later"
+			{"Who just leaves key's lying around?",
+			 "Text For spot #2 if needed later"
 			},
 			//room #12's text
-			{"Text for room # " + roomNumber,
-				"Text For spot #2 if needed later"
+			{"Well THAT's a wecome suprised!<br /><br />" +
+					"I was wondering how you would get by if there were guards.",
+			 "Text For spot #2 if needed later"
 			},
 			//room #13's text
-			{"Text for room # " + roomNumber,
-				"Text For spot #2 if needed later"
+			{"Well he's cute.<br /><br />" +
+					"Think he'll just let you by?",
+			 "Text For spot #2 if needed later"
 			},
 			//room #14's text
-			{"Text for room # " + roomNumber,
-				"Text For spot #2 if needed later"
+			{"So, I know you haven't seen the sun in a VERY long time, but this is amost nauseating.<br /><br />" +
+					"Do these people know the horrors beneath their feet?<br /><br />" +
+					"Anyway, I hope you found enough loot to start again.<br /><br />" +
+					"Good Luck!",
+			 "Text For spot #2 if needed later"
 			},
 			//room #15's text
 			{"Text for room # " + roomNumber,
-				"Text For spot #2 if needed later"
+			 "Text For spot #2 if needed later"
 			},
 		};
 		

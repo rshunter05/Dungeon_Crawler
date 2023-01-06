@@ -16,6 +16,7 @@ public class Room {
 	private String directions;
 	private int[] surroundingRooms;
 	private int[] itemList;
+	private boolean hasVisited;  //for toggling the game text
 	
 	
 	
@@ -30,7 +31,7 @@ public class Room {
 		//get image info from the AllImages class
 		roomBackgroundImage = AllImages.getBackgroundImage(roomNumber);
 		itemList = ItemInformation.getRoomItemList(roomNumber);
-		
+		hasVisited = false;
 	}
 	
 	
@@ -51,9 +52,16 @@ public class Room {
 	public int[] getItemList() {
 		return itemList;
 	}
+	public boolean getHasVisited() {
+		return hasVisited;
+	}
 	
+	public void visitRoom() {
+		hasVisited = true;
+		roomText = AllText.getText(roomNumber, 1);
+	}
 	
-	
+	//returns true if there's a room in the given direction
 	public boolean hasDirection(String direction) {
 		return directions.contains(direction);
 	}
