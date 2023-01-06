@@ -5,11 +5,11 @@ I built this project as a "proof of concept" for an end-of-year collaborative pr
 The idea was for the Algebra classes to write a "choose your own adventure" type story, and CompSci would build it.  Algebra would be responsible for all text, layouts and images.  Note: I do not remember (nor can discern) what math skill this reinforced.
 
 For CompSci, this would do the following:
-- Introduce GUI's using a text based system
+- Introduce GUI's using a text based system (Java Swing)
 - Reinforce their understanding of Objects
 - Reinforce their ability to create complex logic
 
-Not all the text is comleted, but it's placed so students can use the frames as needed.  But what is there gets a little snarky at times.
+Not all the text is completed, but it's placed so students can use the frames as needed.  But what is there gets a little snarky at times.
 
 **[Source Code](https://github.com/rshunter05/Dungeon_Crawler/tree/master/src/crawler)**
 
